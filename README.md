@@ -1,4 +1,4 @@
-# algorithm solutions
+# algorithm solutions-1 
 
 solutions of algorithm problems that I solved ever
 
